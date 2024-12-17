@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cách Làm Bún Bò Huế</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            background-color: #f9f9f9;
+            color: #333;
+            margin: 0;
+            padding: 20px;
+        }
+        .container {
+            background-color: white;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            max-width: 800px;
+            margin: 0 auto;
+        }
+        h1, h2 {
+            color: #b22222;
+        }
+        ul, ol {
+            margin: 10px 0;
+            padding-left: 20px;
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin: 20px 0;
+        }
+        table, th, td {
+            border: 1px solid #ccc;
+        }
+        th, td {
+            padding: 10px;
+            text-align: left;
+        }
+        th {
+            background-color: #f2f2f2;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Cách Làm Bún Bò Huế</h1>
+
+        <h2>1. Nguyên Liệu Cần Chuẩn Bị</h2>
+        <ul>
+            <li>Bắp bò: 500g</li>
+            <li>Chân giò heo: 1 cái</li>
+            <li>Xương ống heo: 500g</li>
+            <li>Chả lụa hoặc chả Huế: 200g</li>
+            <li>Bún tươi: 1kg</li>
+            <li>Hành tây, sả cây, ớt, hành tím</li>
+            <li>Mắm ruốc Huế: 2 thìa canh</li>
+            <li>Nước mắm, muối, đường, bột ngọt</li>
+            <li>Rau sống ăn kèm: giá, hoa chuối, rau muống chẻ</li>
+            <li>Ớt sa tế: để tạo màu và tăng độ cay</li>
+        </ul>
+
+        <h2>2. Các Bước Thực Hiện</h2>
+        <ol>
+            <li><strong>Ninh xương làm nước dùng:</strong> Hầm xương ống và chân giò trong 2-3 tiếng để nước dùng ngọt tự nhiên.</li>
+            <li><strong>Chuẩn bị mắm ruốc:</strong> Hòa mắm ruốc với nước ấm, để lắng cặn, lọc lấy nước trong cho vào nước dùng.</li>
+            <li><strong>Luộc bắp bò:</strong> Cho bắp bò vào nước dùng, luộc chín rồi vớt ra, thái lát mỏng.</li>
+            <li><strong>Chế nước dùng:</strong> Thêm sả đập dập, hành tây, nêm nước mắm, muối, đường và ớt sa tế để tạo màu và vị cay.</li>
+            <li><strong>Trình bày:</strong> Cho bún vào tô, xếp bắp bò, chả lụa, chan nước dùng và ăn kèm rau sống.</li>
+        </ol>
+
+        <h2>3. Thành Phần Dinh Dưỡng</h2>
+        <table>
+            <tr>
+                <th>Thành Phần</th>
+                <th>Hàm Lượng</th>
+            </tr>
+            <tr>
+                <td>Calo</td>
+                <td>500 kcal</td>
+            </tr>
+            <tr>
+                <td>Protein</td>
+                <td>40g</td>
+            </tr>
+            <tr>
+                <td>Chất béo</td>
+                <td>25g</td>
+            </tr>
+            <tr>
+                <td>Carbohydrate</td>
+                <td>35g</td>
+            </tr>
+        </table>
+
+        <h2>4. Lưu Ý Khi Nấu Bún Bò Huế</h2>
+        <ul>
+            <li>Nước dùng nên ninh lâu để có vị ngọt từ xương.</li>
+            <li>Sử dụng mắm ruốc Huế đúng chuẩn để có hương vị đặc trưng.</li>
+            <li>Ớt sa tế nên cho từ từ để điều chỉnh độ cay phù hợp.</li>
+            <li>Rau sống ăn kèm nên tươi và sạch để tăng thêm độ ngon.</li>
+        </ul>
+    </div>
+</body>
+</html>
